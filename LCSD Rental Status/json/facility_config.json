@@ -1,0 +1,23 @@
+[
+
+    { 
+        "name": "grass_pitches",
+        "isEnabled": true
+    },
+    { 
+        "name": "tennis",
+        "isEnabled": false
+    },
+    { 
+        "name": "badminton",
+        "isEnabled": false
+    },
+    { 
+        "name": "basketball",
+        "isEnabled": false
+    },
+    { 
+        "name": "volley",
+        "isEnabled": false
+    }
+]
