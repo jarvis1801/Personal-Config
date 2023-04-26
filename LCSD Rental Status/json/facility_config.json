@@ -6,18 +6,18 @@
     },
     { 
         "name": "tennis",
-        "isEnabled": false
+        "isEnabled": true
     },
     { 
         "name": "badminton",
-        "isEnabled": false
+        "isEnabled": true
     },
     { 
         "name": "basketball",
-        "isEnabled": false
+        "isEnabled": true
     },
     { 
         "name": "volley",
-        "isEnabled": false
+        "isEnabled": true
     }
 ]
